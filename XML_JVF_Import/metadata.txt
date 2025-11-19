@@ -1,0 +1,11 @@
+[general]
+name=XML JVF Import
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Imports JVF DTM XML files (ver 1.4.3) into QGIS layers, auto-detecting geometry type and attributes.
+version=1.0
+author=Jakub Šutta
+email= kubasutta@gmail.com
+about=Plugin pro import souborů JVF (*.jvf.xml) pro QGIS 3.20, včetně nastylování a logiky přiřazení atributů. Aktuální pro verzi JVF 1.4.3.
+category=Vector
+icon=icon.png
